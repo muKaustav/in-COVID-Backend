@@ -12,5 +12,5 @@ Thus **in-COVID** was created that helps one to reach out for resources like hos
 This repository contains the **Backend** for in-COVID app.
 
 **NOTE:**
-We kept the application up and running for roughly 3 months. Ultimately, we decided that the backbone and the infrastructure that we created could be improved upon or used for other causes. 
+We kept the application up and running for roughly 3 months and have pulled the plug on the server and the app. Ultimately, we decided that the backbone and the infrastructure that we created could be improved upon or used for other causes. 
 
