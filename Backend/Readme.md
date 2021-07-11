@@ -3,7 +3,7 @@
     <img src="/src/logoFULL.png" width="300" title="logo">
 </p>
 
-<br><br><br>
+<br>
 
 Initialize NodeJs runtime environment and the required dependencies.
 
