@@ -5,7 +5,7 @@
 </p>
 <br>
 
-Register a service account from Google and download **creds.json** for Script **->** Google Sheets workflow.
+Register a service account from Google and download **creds.json** for pygsheets & df2gspread **->** Google Sheets workflow.
 
 This repository contains the **Scripts** for the backend data manipulation in-COVID app.
 
