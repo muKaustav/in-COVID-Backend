@@ -1,4 +1,4 @@
-# in-COVID-API
+# in-COVID-Backend&Website
 <p align="center">
     <img src="/src/logoFULL.png" width="300" title="logo">
 </p>

@@ -1,3 +1,9 @@
+# in-COVID-Website
+<p align="center">
+    <img src="/src/logoFULL.png" width="300" title="logo">
+</p>
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
