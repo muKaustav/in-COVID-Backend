@@ -1,5 +1,9 @@
 # in-COVID-API
-![incovid]([https://raw.githubusercontent.com/muKaustav/in-COVID-Backend/main/src/logoFULL.png)
+<p align="center">
+    <img src="/src/logoFULL.png" width="300" title="logo">
+</p>
+
+<br>
 
 Initialize NodeJs runtime environment and the required dependencies.
 

@@ -1,5 +1,8 @@
 # in-COVID-VaccineCertificateDownloader
-
+<p align="center">
+    <img src="/src/logoFULL.png" width="300" title="logo">
+</p>
+<br>
 Initialize NodeJs runtime environment.
 
     npm i
